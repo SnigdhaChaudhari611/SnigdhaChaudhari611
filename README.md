@@ -4,7 +4,7 @@
 
 ### DevOps Engineer | AWS | Terraform | Docker | CI/CD
 
-Building and automating cloud infrastructure, containerized applications, and CI/CD workflows with a focus on practical, reliable solutions.
+Building cloud infrastructure, automating deployments, and turning real-world requirements into reliable, repeatable solutions.
 
 [LinkedIn](https://www.linkedin.com/in/snigdha-chaudhari/) • [Hashnode](https://snigdhachaudhari.hashnode.dev/) • [Email](mailto:snigdhachaudhari1@gmail.com)
 
@@ -14,27 +14,24 @@ Building and automating cloud infrastructure, containerized applications, and CI
 
 ## 👩‍💻 About Me
 
-I'm a **Cloud Engineer** focused on **AWS, DevOps, infrastructure automation, and cloud-native technologies**.
+I'm a **DevOps Engineer** focused on **AWS, infrastructure automation, containerization, and CI/CD**.
 
-My work involves designing and deploying cloud solutions, automating infrastructure with **Terraform**, building containerized applications with **Docker**, and working with **CI/CD and GitHub Actions**.
+My work involves designing and deploying cloud solutions, automating infrastructure with **Terraform**, building and running containerized applications with **Docker**, and creating **CI/CD workflows with GitHub Actions**.
 
-I learn by building and troubleshooting real systems, from AWS serverless workflows and ECS deployments to Docker Compose applications and automated CI/CD pipelines.
+I prefer learning by building real systems. My hands-on work spans AWS serverless architectures, ECS Fargate deployments, Docker Compose applications, Infrastructure as Code, container optimization, and CI/CD automation.
 
-I'm currently targeting **Cloud Engineer, Cloud DevOps, and DevOps Engineer** opportunities while continuing to build toward a broader **Cloud Architecture** skill set.
+Currently, I'm strengthening my DevOps skills across:
 
----
+* AWS cloud infrastructure
+* Terraform and Infrastructure as Code
+* Docker and containerization
+* GitHub Actions and CI/CD
+* Linux and automation with Python/Bash
+* Kubernetes and Amazon EKS
+* Cloud-native architecture
+* AI applications in Cloud and DevOps
 
-## 🔭 What I'm Working On
-
-* Building hands-on **AWS and DevOps projects**
-* Automating infrastructure with **Terraform**
-* Building and optimizing **Docker images**
-* Creating **CI/CD pipelines with GitHub Actions**
-* Working with **Docker Compose and multi-stage builds**
-* Strengthening **Linux, Python and Bash automation**
-* Exploring **Kubernetes/EKS and cloud-native deployments**
-* Exploring practical applications of **AI in Cloud and DevOps**
-* Documenting my hands-on learning through **90 Days of DevOps**
+I'm actively exploring **DevOps Engineer and Cloud DevOps opportunities**.
 
 ---
 
@@ -42,25 +39,27 @@ I'm currently targeting **Cloud Engineer, Cloud DevOps, and DevOps Engineer** op
 
 ### ☁️ Cloud
 
-**AWS:** EC2 • VPC • IAM • S3 • Lambda • ECR • ECS Fargate • EKS • RDS • DynamoDB • CloudWatch • EventBridge • SSM Parameter Store • Textract • SES
+**AWS:**
+EC2 • VPC • IAM • S3 • Lambda • ECR • ECS Fargate • EKS • RDS • DynamoDB • CloudWatch • EventBridge • SSM Parameter Store • Textract • SES
 
-**Azure:** Azure Fundamentals
+**Azure:**
+Azure Fundamentals
 
-### ⚙️ Infrastructure & DevOps
+### ⚙️ DevOps & Infrastructure
 
 Terraform • Docker • Docker Compose • Git • GitHub Actions • CI/CD • Infrastructure as Code • Containerization
 
 ### 🐧 Systems & Automation
 
-Linux • Bash • Python • Windows • Shell Scripting
+Linux • Bash • Python • Shell Scripting • Windows
 
 ### ☸️ Containers & Cloud Native
 
-Docker • ECS Fargate • Kubernetes • EKS • Amazon ECR
+Docker • ECS Fargate • Kubernetes • Amazon EKS • Amazon ECR
 
-### 🗄️ Databases & Services
+### 🗄️ Databases & Application Technologies
 
-MySQL • PostgreSQL • MongoDB • Redis • DynamoDB • RDS
+MySQL • MongoDB • Redis • DynamoDB • RDS • REST APIs • Serverless
 
 ---
 
@@ -68,45 +67,99 @@ MySQL • PostgreSQL • MongoDB • Redis • DynamoDB • RDS
 
 ### [90 Days of DevOps](https://github.com/CrystallyRains/90DaysOfDevOps)
 
-My ongoing hands-on DevOps learning journey covering **Linux, networking, shell scripting, Git, Docker, Docker Compose, CI/CD, GitHub Actions, cloud infrastructure and automation**.
+A hands-on DevOps learning journey focused on **building rather than just studying**.
 
-The repository includes practical exercises, troubleshooting, implementation notes and revision material built while learning.
+Topics include:
 
-### [Imagify - AWS ECS + Terraform](https://github.com/CrystallyRains/imagify-tf-ecs)
+**Linux → Networking → Shell Scripting → Git → Docker → Docker Compose → CI/CD → GitHub Actions → Cloud & Automation**
 
-Containerized application deployed on **AWS ECS Fargate** with infrastructure provisioned using **Terraform**.
-
-Includes AWS networking, container deployment, Amazon ECR and CI/CD automation using GitHub Actions.
-
-### [HealthKey - AI + AWS](https://github.com/CrystallyRains/health-guard-bridge)
-
-Hackathon project exploring how **AI and AWS services** can be used to improve access to emergency medical information.
-
-### Docker & CI/CD Practice
-
-Hands-on work with **Dockerfiles, multi-stage builds, Docker Compose, image optimization, GitHub Actions, Docker Hub publishing, secrets, matrices and self-hosted runners**.
+The repository contains practical implementations, experiments, revision material, and working examples built throughout the journey.
 
 ---
 
-## 📚 Current Learning
+### [Imagify - AWS ECS + Terraform](https://github.com/CrystallyRains/imagify-tf-ecs)
+
+A containerized application deployed on **AWS ECS Fargate** with infrastructure managed using **Terraform**.
+
+Key areas:
+
+* AWS ECS Fargate
+* Amazon ECR
+* VPC and networking
+* Terraform Infrastructure as Code
+* Docker
+* GitHub Actions
+* CI/CD automation
+
+---
+
+### [HealthKey - AI + AWS](https://github.com/CrystallyRains/health-guard-bridge)
+
+A hackathon project exploring how **AI and AWS services** can be used to improve access to emergency medical information.
+
+---
+
+## 🔧 Hands-On DevOps Work
+
+### Docker
+
+* Multi-stage Docker builds
+* Docker image optimization
+* Docker Compose
+* Multi-container applications
+* Networks and volumes
+* Non-root containers
+* Docker Hardened Images
+* Containerized frontend, backend and database stacks
+
+### CI/CD
+
+* GitHub Actions
+* Multi-job workflows
+* Job dependencies
+* Matrix strategies
+* GitHub Secrets and Variables
+* Docker image build and push
+* Docker Hub publishing
+* Commit-based image tagging
+* GitHub-hosted runners
+* Self-hosted runners
+
+### AWS & Infrastructure
+
+* Terraform-based AWS infrastructure
+* ECS Fargate deployments
+* Serverless applications
+* Lambda automation
+* EventBridge automation
+* S3-based workflows
+* DynamoDB
+* CloudWatch monitoring
+* Infrastructure automation
+
+---
+
+## 📚 Currently Learning
 
 ### 90 Days of DevOps
 
-Currently progressing through hands-on DevOps topics including:
+I'm currently progressing through hands-on DevOps topics and applying each concept through working implementations.
 
-**Docker → Docker Compose → CI/CD → GitHub Actions → Container CI/CD → Cloud & Automation**
+Recent focus areas include:
 
-I document the implementation and key takeaways as I build.
+**Docker → Docker Compose → CI/CD → GitHub Actions → Container CI/CD → Cloud Automation**
+
+The goal is not just to learn the commands, but to understand how these technologies fit together when building and deploying real applications.
 
 ---
 
 ## 🏅 Certifications & Community
 
-* AWS Certified Solutions Architect - Associate
-* AWS Certified AI Practitioner
-* AWS Certified Cloud Practitioner
-* Microsoft Certified: Azure Fundamentals
-* AWS Community Builder
+* **AWS Certified Solutions Architect - Associate**
+* **AWS Certified AI Practitioner**
+* **AWS Certified Cloud Practitioner**
+* **Microsoft Certified: Azure Fundamentals**
+* **AWS Community Builder**
 
 ---
 
@@ -114,9 +167,9 @@ I document the implementation and key takeaways as I build.
 
 I'm interested in opportunities involving:
 
-**Cloud Engineering • Cloud DevOps • DevOps • Infrastructure Automation • AWS • Terraform • CI/CD • Containers**
+**DevOps • AWS • Terraform • CI/CD • Infrastructure Automation • Docker • Kubernetes • Cloud**
 
-Long term, I'm continuing to build toward **Cloud Architecture and scalable cloud solution design**.
+I'm continuing to build toward **cloud architecture, scalable infrastructure, and automated cloud delivery**.
 
 ---
 
