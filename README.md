@@ -2,7 +2,7 @@
 
 # Hi, I'm Snigdha 👋
 
-### Cloud DevOps Engineer | AWS | Terraform | Docker | CI/CD
+### DevOps Engineer | AWS | Terraform | Docker | CI/CD
 
 Building and automating cloud infrastructure, containerized applications, and CI/CD workflows with a focus on practical, reliable solutions.
 
