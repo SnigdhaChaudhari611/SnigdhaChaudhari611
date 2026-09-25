@@ -8,8 +8,6 @@ Building cloud infrastructure, automating deployments, and turning real-world re
 
 [LinkedIn](https://www.linkedin.com/in/snigdha-chaudhari/) • [Hashnode](https://snigdhachaudhari.hashnode.dev/) • [Email](mailto:snigdhachaudhari1@gmail.com)
 
-![CI](https://github.com/SnigdhaChaudhari611/devboard-starter/actions/workflows/ci.yml/badge.svg)
-![CD](https://github.com/SnigdhaChaudhari611/devboard-starter/actions/workflows/cd.yml/badge.svg)
 </div>
 
 ---
